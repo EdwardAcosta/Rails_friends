@@ -3,5 +3,6 @@ class HomeController < ApplicationController
   end
   def about
   end
-    
+  def equipment
+  end  
 end
