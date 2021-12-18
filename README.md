@@ -2,7 +2,7 @@
 This is from an Youtube course "Learn Ruby on Rails-Full Course" 
 from FreecodeCamp.com
 
-12/18/21
+12/18/21 project recloned due to issues.
 
 
 * Ruby version
