@@ -2,6 +2,9 @@
 This is from an Youtube course "Learn Ruby on Rails-Full Course" 
 from FreecodeCamp.com
 
+12/18/21
+
+
 * Ruby version
 
 * System dependencies
